@@ -1,0 +1,15 @@
+{
+  "name": "hathu11088-tea",
+  "version": "1.0.0",
+  "description": "The only limit to our realization of tomorrow will be our doubts of today",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hathu11088/hathu11088-tea.git"
+  },
+  "author": "hathu11088",
+  "license": "MIT"
+}
